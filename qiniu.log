@@ -1,0 +1,10 @@
+2015-01-03 02:07:53,293 - INFO: Starting new HTTP connection (1): rsf.qbox.me
+2015-01-03 02:07:53,418 - DEBUG: "GET /list?prefix=user_avatar%2Fcoderq.com%2F&bucket=coderq HTTP/1.1" 200 123659
+2015-01-03 02:07:53,751 - INFO: wrong files : 0
+2015-01-03 02:07:53,751 - INFO: []
+2015-01-03 02:07:53,751 - INFO: nothing to delete
+2015-01-03 02:09:48,307 - INFO: Starting new HTTP connection (1): rsf.qbox.me
+2015-01-03 02:09:48,435 - DEBUG: "GET /list?prefix=user_avatar%2Fcoderq.com%2F&bucket=coderq HTTP/1.1" 200 123659
+2015-01-03 02:09:48,671 - INFO: wrong files : 0
+2015-01-03 02:09:48,671 - INFO: []
+2015-01-03 02:09:48,671 - INFO: nothing to delete
