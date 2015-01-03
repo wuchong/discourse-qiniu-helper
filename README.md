@@ -19,10 +19,14 @@ sudo pip install pyyaml
 git clone https://github.com/wuchong/discourse-qiniu-helper.git
 ```
 
+##配置
+
+在`_config.yml`文件中，填写您的七牛Access相关参数以及您的站点域名。
+
 ##执行
 
 ```python
 python ~/discourse-qiniu-helper/helper.py
 ```
 
-建议将该脚本设置为定期任务，每天自动执行一次。
+建议将该脚本设置为定期任务，每天自动执行一次。可查看`qiniu.log`文件了解运行情况。
